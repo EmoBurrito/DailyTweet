@@ -1,5 +1,5 @@
 # DailyTweet
-A simple script to tweet the same message everyday with a slight variation.
+A simple script to [tweet the same message everyday with a slight variation](https://twitter.com/EmoBurrito2).
 
 ## Okay, but why?
 I used to live with someone who coded as a hobby and has a fondness for over-engineering things. They explained to me that they wanted to write a Twitter bot that would tweet two others who have not worked together everyday until they collaborate (see user in tweets). Being three drinks deep and a professional code monkey, I figured it likely wasn't difficult and began to explain how I would do it. They respectfully declined my explanation on the grounds that they wanted to pioneer this project on their own as a learning experience, which I fully understood and was here should they need help.
